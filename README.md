@@ -11,13 +11,13 @@ If the seat is occupied and the seat belt is not fastened, it triggers a buzzer 
 
 🚗 System Components:
 
-Component	                    GPIO Pin (example)	                Description
+Component	          ---->          GPIO Pin (example)	  ---->              Description
 
-Seat Occupancy Sensor	        PA0	                                Input: HIGH if seat occupied
+Seat Occupancy Sensor	   ---->     PA0                ---->	                 Input: HIGH if seat occupied
 
-Seat Belt Switch	            PA1	                                Input: HIGH if belt fastened
+Seat Belt Switch	  ---->          PA1	             ---->                   Input: HIGH if belt fastened
 
-Buzzer/Alert	                PA5	                                Output: Drives buzzer/LED
+Buzzer/Alert	   ---->             PA5	            ---->                    Output: Drives buzzer/LED
 
 ✅ Assumptions:
 
